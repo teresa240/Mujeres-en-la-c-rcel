@@ -1,6 +1,5 @@
-# Dimensión
+####Ficha tecnica 
 
-## Descripción
 
 ### Características de los datos
 
